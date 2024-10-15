@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OBFUSEVAL
 ICSE 2025 Submission
 
@@ -74,7 +73,4 @@ Each subfolder contains five files:
 3. `deepseek`
 4. `gpt-4-1106`
 5. `gpt-4-0125`
-=======
-# ObfusEval
-ICSE2025 submission
->>>>>>> 9f537d189580cd6091aa9acf29e779b4edbaefa2
+
